@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Repo Profiler</string>
+    <string name="search_box_hint_text">Enter a github user id</string>
+    <string name="search_button_label">Search</string>
+    <string name="user_name_placeholder_text">The Octocat</string>
+    <string name="repo_title_placeholder_text">git-consortium</string>
+    <string name="repo_description_placeholder_text">This repo is for demonstration purposes only.</string>
+    <string name="repo_last_updated_label">Last Updated</string>
+    <string name="repo_last_updated_placeholder_date">Jul 6, 2017 12:15:11 AM</string>
+    <string name="repo_stars_label">Stars</string>
+    <string name="repo_star_placeholder_count">8</string>
+    <string name="repo_forks_label">Forks</string>
+    <string name="repo_fork_placeholder_count">24</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_layout_embedded_small">5dp</dimen>
+    <dimen name="padding_layout_embedded">10dp</dimen>
+    <dimen name="padding_layout_embedded_medium">20dp</dimen>
+
+    <dimen name="search_box_header_margin_start">14dp</dimen>
+    <dimen name="search_box_header_margin_bottom">-14dp</dimen>
+
+    <dimen name="avatar_size">125dp</dimen>
+</resources>
